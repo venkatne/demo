@@ -1,0 +1,9 @@
+This is simple file!
+
+Adding some new data & added again for differece purpose
+
+<<<<<<< HEAD
+In master brabch
+=======
+This is in bad branch
+>>>>>>> bad-branch
